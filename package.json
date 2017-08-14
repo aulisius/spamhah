@@ -1,0 +1,15 @@
+{
+  "name": "spamhah",
+  "version": "1.0.0",
+  "description": "Spam people who spam you with s*r*h*h links",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "aulisius7@gmail.com",
+  "license": "WTFPL",
+  "dependencies": {
+    "jsdom": "^11.1.0",
+    "request": "^2.81.0"
+  }
+}

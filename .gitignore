@@ -1,0 +1,4 @@
+node_modules/**
+.history/**
+keys.js
+app.js
